@@ -19,6 +19,8 @@
 
 ## 发布动作
 
-待执行：初始化本地 Git 仓库，创建公开 GitHub 仓库，并推送当前 Skill 文件。
+已完成：初始化本地 Git 仓库，创建公开 GitHub 仓库，并推送当前 Skill 文件。
 
-如发布失败，不要强推；记录错误后重新检查认证、网络和仓库权限。
+仓库地址：https://github.com/ReiSei0824/wechat-ai-miniprogram-audit
+
+如后续发布更新失败，不要强推；记录错误后重新检查认证、网络和仓库权限。
